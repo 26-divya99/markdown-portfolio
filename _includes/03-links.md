@@ -1,2 +1,2 @@
-[example link] (https://example.com)
+[example link](https://example.com)
 
