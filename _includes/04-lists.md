@@ -1,5 +1,5 @@
-Peethala
-Dwaraka
-Durga
-Bhavani
-Divya
+- Peethala
+- Dwaraka
+- Durga
+- Bhavani
+- Divya
